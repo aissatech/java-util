@@ -15,16 +15,15 @@ public class ReadWriteFile {
 	public ReadWriteFile() {		
 	}
 	public static void main(String args[])throws IOException{
-		ReadWriteFile lett = new ReadWriteFile();
-		List<String> rubrica = lett.leggiFile();
+	    ReadWriteFile lett = new ReadWriteFile();
+	    List<String> rubrica = lett.leggiFile();
 
-		// adding new line to the address book
+	    // adding new line to the address book
 	    rubrica.add("4, Camille Bordon, camille@gmail.com, Via dei Serpenti 15");
 	    rubrica.add("5, Aaron Schwartz, aaron@gmail.com, Via di Santa Croce in Gerusalemme 1");
 	
 	    // writing the updated address book into a new file
-	    ReadWriteFile ogg = new ReadWriteFile();
-	    ogg.scriviFile(rubrica);
+	    lett.scriviFile(rubrica);
 	}
 
 	/**
@@ -32,7 +31,7 @@ public class ReadWriteFile {
 	 * and store this data into a list of strings
 	 */
 	public List<String> leggiFile(){
-		String file = "rubrica.txt";    
+	      String file = "rubrica.txt";    
 	      
 	      //Creates a FileReader Object
 	      FileReader reader = null;
