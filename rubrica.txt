@@ -1,0 +1,3 @@
+1, Ann Frost, ann@gmail.com, Via dei Promontori 17
+2, Claus Andrew, claus@gmail.com, Via Armando Diaz 44
+3, Margherite Gaultier, margherite@gmail.com, Via di Capo Spartivento 13
