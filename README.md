@@ -14,3 +14,4 @@ The replacement character � (often a black diamond with a white question mark)
 - read the 3 lines (id, name & surname, email, address) from the address book and save the data into a list of strings
 - add another 2 data lines to the address book
 - write the new address book into a new file
+- uses rubrica.txt and newRubrica.txt
