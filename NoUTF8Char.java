@@ -22,7 +22,7 @@ public class NoUTF8Char {
 
 		// Read stress file
 		Path path = Paths.get("no_UTF8.txt");
-		byte[] data = null;;
+		byte[] data = null;
 		try {
 			data = Files.readAllBytes(path);
 		} catch (IOException e) {
