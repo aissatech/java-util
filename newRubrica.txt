@@ -1,0 +1,5 @@
+1, Ann Frost, ann@gmail.com, Via dei Promontori 17
+2, Claus Andrew, claus@gmail.com, Via Armando Diaz 44
+3, Margherite Gaultier, margherite@gmail.com, Via di Capo Spartivento 13
+4, Camille Bordon, camille@gmail.com, Via dei Serpenti 15
+5, Aaron Schwartz, aaron@gmail.com, Via di Santa Croce in Gerusalemme 1
